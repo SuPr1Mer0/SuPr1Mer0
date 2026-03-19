@@ -16,6 +16,6 @@
 - Replit
 
 ## 📊 Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=твойник&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SuPr1Mer0&show_icons=true&theme=radical)
 
 Хочешь бота под свой бизнес? Пиши в Telegram @SuPr1Mer0 или смотри объявления на Авито!
