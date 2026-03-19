@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Андрей, я разработчик
 
-<!--
-**SuPr1Mer0/SuPr1Mer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Telegram](https://img.shields.io/badge/Telegram-боты-blue)
 
-Here are some ideas to get you started:
+Я создаю полезных ботов для Авито, бизнеса и автоматизации.  
+Работаю официально как самозанятый — выдаю чеки.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои проекты
+- [Echo-бот с базой данных](https://github.com/SuPr1Mer0/telegram-echo-bot)
+- [Парсер Авито уведомитель](https://github.com/SuPr1Mer0/avito-notifier) 
+- [Бот для приёма заказов](https://github.com/SuPr1Mer0/order-bot)
+
+## 🛠 Стек технологий
+- Python (pyTelegramBotAPI)
+- SQLite / PostgreSQL
+- Replit
+
+## 📊 Статистика
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=твойник&show_icons=true&theme=radical)
+
+Хочешь бота под свой бизнес? Пиши в Telegram @SuPr1Mer0 или смотри объявления на Авито!
