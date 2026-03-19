@@ -13,7 +13,7 @@
 ## 🛠 Стек технологий
 - Python (pyTelegramBotAPI)
 - SQLite / PostgreSQL
-- Replit
+- PythonAnywhere
 
 ## 📊 Статистика
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SuPr1Mer0&show_icons=true&theme=radical)
