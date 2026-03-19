@@ -1,4 +1,4 @@
-# Привет! 👋 Меня зовут Андрей, я разработчик
+# Привет! 👋 Меня зовут Suprimero, я разработчик
 
 ![Telegram](https://img.shields.io/badge/Telegram-боты-blue)
 
